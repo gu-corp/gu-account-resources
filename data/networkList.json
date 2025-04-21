@@ -1,0 +1,105 @@
+[
+  {
+    "chainId": 1,
+    "name": "Ethereum",
+    "tokenSymbol": "ETH",
+    "rpcUrl": "https://eth.llamarpc.com",
+    "blockExplorerUrl": "https://etherscan.io",
+    "iconUrl": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
+    "isTestnet": false,
+    "isDefault": true,
+    "icon": "Ξ"
+  },
+  {
+    "chainId": 11155111,
+    "name": "Sepolia",
+    "tokenSymbol": "ETH",
+    "rpcUrl": "https://rpc.sepolia.org",
+    "blockExplorerUrl": "https://sepolia.etherscan.io",
+    "iconUrl": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
+    "isTestnet": true,
+    "isDefault": false
+  },
+  {
+    "chainId": 81,
+    "name": "JOC Mainnet",
+    "tokenSymbol": "JOC",
+    "rpcUrl": "https://rpc-1.japanopenchain.org:8545",
+    "blockExplorerUrl": "https://explorer.japanopenchain.org",
+    "iconUrl": "https://japanopenchain.org/wp-content/uploads/2023/06/JOC-logo-2023.png",
+    "isTestnet": false,
+    "isDefault": true,
+    "icon": ":large_blue_diamond:"
+  },
+  {
+    "chainId": 10081,
+    "name": "JOC Testnet",
+    "tokenSymbol": "JOC",
+    "rpcUrl": "https://rpc-1.testnet.japanopenchain.org:8545",
+    "blockExplorerUrl": "https://explorer.testnet.japanopenchain.org",
+    "iconUrl": "https://japanopenchain.org/wp-content/uploads/2023/06/JOC-logo-2023.png",
+    "isTestnet": true,
+    "isDefault": true,
+    "icon": ":large_blue_diamond:"
+  },
+  {
+    "chainId": 8453,
+    "name": "Base",
+    "tokenSymbol": "ETH",
+    "rpcUrl": "https://mainnet.base.org",
+    "blockExplorerUrl": "https://basescan.org",
+    "iconUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/info/logo.png",
+    "isTestnet": false,
+    "isDefault": false
+  },
+  {
+    "chainId": 84532,
+    "name": "Base Sepolia",
+    "tokenSymbol": "ETH",
+    "rpcUrl": "https://sepolia.base.org",
+    "blockExplorerUrl": "https://sepolia.basescan.org",
+    "iconUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/info/logo.png",
+    "isTestnet": true,
+    "isDefault": false
+  },
+  {
+    "chainId": 42161,
+    "name": "Arbitrum One",
+    "tokenSymbol": "ETH",
+    "rpcUrl": "https://arb1.arbitrum.io/rpc",
+    "blockExplorerUrl": "https://arbiscan.io",
+    "iconUrl": "https://assets.coingecko.com/coins/images/16547/small/photo_2023-03-29_21.47.00.jpeg",
+    "isTestnet": false,
+    "isDefault": false
+  },
+  {
+    "chainId": 421614,
+    "name": "Arbitrum Sepolia",
+    "tokenSymbol": "ETH",
+    "rpcUrl": "https://sepolia-rollup.arbitrum.io/rpc",
+    "blockExplorerUrl": "https://sepolia.arbiscan.io",
+    "iconUrl": "https://assets.coingecko.com/coins/images/16547/small/photo_2023-03-29_21.47.00.jpeg",
+    "isTestnet": true,
+    "isDefault": false
+  },
+  {
+    "chainId": 43114,
+    "name": "Avalanche",
+    "tokenSymbol": "AVAX",
+    "rpcUrl": "https://api.avax.network/ext/bc/C/rpc",
+    "blockExplorerUrl": "https://snowtrace.io",
+    "iconUrl": "https://assets.coingecko.com/coins/images/12559/small/Avalanche_Circle_RedWhite_Trans.png",
+    "isTestnet": false,
+    "isDefault": false
+  },
+  {
+    "chainId": 43113,
+    "name": "Avalanche Fuji",
+    "tokenSymbol": "AVAX",
+    "rpcUrl": "https://api.avax-test.network/ext/bc/C/rpc",
+    "blockExplorerUrl": "https://testnet.snowtrace.io",
+    "iconUrl": "https://assets.coingecko.com/coins/images/12559/small/Avalanche_Circle_RedWhite_Trans.png",
+    "isTestnet": true,
+    "isDefault": false
+  }
+]
