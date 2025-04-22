@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-04-22T00:00:00Z",
+  "services": [
+    {
+      "name": "JOC Dashboard",
+      "description": {
+        "en": "You can check your JOC token balance and view the NFTs you own.",
+        "ja": "JOCトークンの残高を確認し、所有するNFTを表示できます。"
+      },
+      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/blob/main/services/assets/joc-coin-icon.png",
+      "url": "https://app.japanopenchain.org"
+    }
+  ]
+}
