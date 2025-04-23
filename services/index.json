@@ -7,8 +7,44 @@
         "en": "You can check your JOC token balance and view the NFTs you own.",
         "ja": "JOCトークンの残高を確認し、所有するNFTを表示できます。"
       },
-      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/blob/main/services/assets/joc-coin-icon.png",
-      "url": "https://app.japanopenchain.org"
+      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/refs/heads/main/services/assets/joc-coin-icon.svg",
+      "url": "https://app.japanopenchain.org/"
+    },
+    {
+      "name": "G.U. Developer Console",
+      "description": {
+        "en": "You can obtain knowledge and endpoints that are useful for chain block development.",
+        "ja": "ブロックチェーン開発に役立つ知識やEndpointを取得できます。"
+      },
+      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/refs/heads/main/services/assets/tool-icon.svg",
+      "url": "https://app.dev-console.gu.net/"
+    },
+    {
+      "name": "Lunascape",
+      "description": {
+        "en": "A secure, fast and feature-rich browser with a standard Web3 wallet.",
+        "ja": "標準の Web3 ウォレットを備えた、安全で高速な多機能ブラウザ。"
+      },
+      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/refs/heads/main/services/assets/lunascape-icon.svg",
+      "url": "https://www.lunascape.org/browser/mobile"
+    },
+    {
+      "name": "G.U. Wallet",
+      "description": {
+        "en": "A Web3 wallet with secure and easy-to-use features for everyone.",
+        "ja": "誰にとっても安全で使いやすい機能を備えたWeb3ウォレット。"
+      },
+      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/blob/main/services/assets/gu-wallet-icon.svg",
+      "url": "https://wallet.gu.net/"
+    },
+    {
+      "name": "Gate.io",
+      "description": {
+        "en": "It is one of the top 5 cryptocurrency exchanges in the world.",
+        "ja": "世界トップ5の暗号通貨取引所の1つです。"
+      },
+      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/blob/main/services/assets/gate-io-icon.svg",
+      "url": "https://www.x-gate.org/"
     }
   ]
 }
