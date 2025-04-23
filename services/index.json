@@ -7,7 +7,7 @@
         "en": "You can check your JOC token balance and view the NFTs you own.",
         "ja": "JOCトークンの残高を確認し、所有するNFTを表示できます。"
       },
-      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/refs/heads/main/services/assets/joc-dashboard-icon.svg",
+      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/services/assets/joc-dashboard-icon.svg",
       "url": "https://app.japanopenchain.org/"
     },
     {
@@ -16,7 +16,7 @@
         "en": "You can obtain knowledge and endpoints that are useful for chain block development.",
         "ja": "ブロックチェーン開発に役立つ知識やEndpointを取得できます。"
       },
-      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/refs/heads/main/services/assets/developer-console-icon.svg",
+      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/services/assets/developer-console-icon.svg",
       "url": "https://app.dev-console.gu.net/"
     },
     {
@@ -25,7 +25,7 @@
         "en": "A secure, fast and feature-rich browser with a standard Web3 wallet.",
         "ja": "標準の Web3 ウォレットを備えた、安全で高速な多機能ブラウザ。"
       },
-      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/refs/heads/main/services/assets/lunascape-icon.svg",
+      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/services/assets/lunascape-icon.svg",
       "url": "https://www.lunascape.org/browser/mobile"
     },
     {
@@ -34,7 +34,7 @@
         "en": "A Web3 wallet with secure and easy-to-use features for everyone.",
         "ja": "誰にとっても安全で使いやすい機能を備えたWeb3ウォレット。"
       },
-      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/refs/heads/main/services/assets/gu-wallet-icon.svg",
+      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/services/assets/gu-wallet-icon.svg",
       "url": "https://wallet.gu.net/"
     }
   ]
