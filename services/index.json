@@ -34,7 +34,7 @@
         "en": "A Web3 wallet with secure and easy-to-use features for everyone.",
         "ja": "誰にとっても安全で使いやすい機能を備えたWeb3ウォレット。"
       },
-      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/blob/main/services/assets/gu-wallet-icon.svg",
+      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/refs/heads/main/services/assets/gu-wallet-icon.svg",
       "url": "https://wallet.gu.net/"
     }
   ]
