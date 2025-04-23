@@ -7,7 +7,7 @@
         "en": "You can check your JOC token balance and view the NFTs you own.",
         "ja": "JOCトークンの残高を確認し、所有するNFTを表示できます。"
       },
-      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/refs/heads/main/services/assets/joc-coin-icon.svg",
+      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/refs/heads/main/services/assets/joc-dashboard-icon.svg",
       "url": "https://app.japanopenchain.org/"
     },
     {
@@ -16,7 +16,7 @@
         "en": "You can obtain knowledge and endpoints that are useful for chain block development.",
         "ja": "ブロックチェーン開発に役立つ知識やEndpointを取得できます。"
       },
-      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/refs/heads/main/services/assets/tool-icon.svg",
+      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/refs/heads/main/services/assets/developer-console-icon.svg",
       "url": "https://app.dev-console.gu.net/"
     },
     {
@@ -36,15 +36,6 @@
       },
       "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/blob/main/services/assets/gu-wallet-icon.svg",
       "url": "https://wallet.gu.net/"
-    },
-    {
-      "name": "Gate.io",
-      "description": {
-        "en": "It is one of the top 5 cryptocurrency exchanges in the world.",
-        "ja": "世界トップ5の暗号通貨取引所の1つです。"
-      },
-      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/blob/main/services/assets/gate-io-icon.svg",
-      "url": "https://www.x-gate.org/"
     }
   ]
 }
