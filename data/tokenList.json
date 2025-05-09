@@ -21,6 +21,26 @@
         "logoURI": "https://raw.githubusercontent.com/x-gate-project/x-gate-token-list/main/assets/81_usdcx.svg"
       },
       {
+        "chainId": 81,
+        "chainName": "Japan Open Chain",
+        "rpcUrl": "https://rpc-1.japanopenchain.org:8545",
+        "address": "0xd1a3d5fF8e349c9Ae7E43bDd01dA15381dCBFa43",
+        "name": "JOC",
+        "symbol": "JOC",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/data/assets/joc-icon.png"
+      },
+      {
+        "chainId": 10081,
+        "chainName": "Japan Open Chain Testnet",
+        "rpcUrl": "https://rpc-1.testnet.japanopenchain.org:8545",
+        "address": "0x2aD15b40B9eaEB59e82D23Dc12E3bbA91f216A93",
+        "name": "JOCT",
+        "symbol": "JOCT",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/data/assets/joc-icon.png"
+      },
+      {
         "chainId": 8453,
         "chainName": "Base",
         "rpcUrl": "https://mainnet.base.org",
