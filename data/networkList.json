@@ -13,7 +13,7 @@
     "chainId": 11155111,
     "name": "Sepolia",
     "tokenSymbol": "ETH",
-    "rpcUrl": "https://rpc.sepolia.org",
+    "rpcUrl": "https://1rpc.io/sepolia",
     "blockExplorerUrl": "https://sepolia.etherscan.io",
     "iconUrl": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
     "isTestnet": true,
@@ -21,7 +21,7 @@
   },
   {
     "chainId": 81,
-    "name": "JOC Mainnet",
+    "name": "Japan Open Chain Mainnet",
     "tokenSymbol": "JOC",
     "rpcUrl": "https://rpc-1.japanopenchain.org:8545",
     "blockExplorerUrl": "https://explorer.japanopenchain.org",
@@ -31,8 +31,8 @@
   },
   {
     "chainId": 10081,
-    "name": "JOC Testnet",
-    "tokenSymbol": "JOCT",
+    "name": "Japan Open Chain Testnet",
+    "tokenSymbol": "JOC",
     "rpcUrl": "https://rpc-1.testnet.japanopenchain.org:8545",
     "blockExplorerUrl": "https://explorer.testnet.japanopenchain.org",
     "iconUrl": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/data/assets/joc-icon.png",
@@ -43,7 +43,7 @@
     "chainId": 8453,
     "name": "Base",
     "tokenSymbol": "ETH",
-    "rpcUrl": "https://mainnet.base.org",
+    "rpcUrl": "https://base.llamarpc.com",
     "blockExplorerUrl": "https://basescan.org",
     "iconUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/info/logo.png",
     "isTestnet": false,
@@ -51,9 +51,9 @@
   },
   {
     "chainId": 84532,
-    "name": "Base Sepolia",
+    "name": "Base Sepolia Testnet",
     "tokenSymbol": "ETH",
-    "rpcUrl": "https://sepolia.base.org",
+    "rpcUrl": "https://base-sepolia.drpc.org",
     "blockExplorerUrl": "https://sepolia.basescan.org",
     "iconUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/info/logo.png",
     "isTestnet": true,
@@ -63,7 +63,7 @@
     "chainId": 42161,
     "name": "Arbitrum One",
     "tokenSymbol": "ETH",
-    "rpcUrl": "https://arb1.arbitrum.io/rpc",
+    "rpcUrl": "https://arbitrum.meowrpc.com",
     "blockExplorerUrl": "https://arbiscan.io",
     "iconUrl": "https://assets.coingecko.com/coins/images/16547/small/photo_2023-03-29_21.47.00.jpeg",
     "isTestnet": false,
@@ -73,7 +73,7 @@
     "chainId": 421614,
     "name": "Arbitrum Sepolia",
     "tokenSymbol": "ETH",
-    "rpcUrl": "https://sepolia-rollup.arbitrum.io/rpc",
+    "rpcUrl": "https://arbitrum-sepolia-rpc.publicnode.com",
     "blockExplorerUrl": "https://sepolia.arbiscan.io",
     "iconUrl": "https://assets.coingecko.com/coins/images/16547/small/photo_2023-03-29_21.47.00.jpeg",
     "isTestnet": true,
@@ -81,9 +81,9 @@
   },
   {
     "chainId": 43114,
-    "name": "Avalanche",
+    "name": "Avalanche C-Chain",
     "tokenSymbol": "AVAX",
-    "rpcUrl": "https://api.avax.network/ext/bc/C/rpc",
+    "rpcUrl": "https://avalanche-c-chain-rpc.publicnode.com",
     "blockExplorerUrl": "https://snowtrace.io",
     "iconUrl": "https://assets.coingecko.com/coins/images/12559/small/Avalanche_Circle_RedWhite_Trans.png",
     "isTestnet": false,
@@ -91,12 +91,102 @@
   },
   {
     "chainId": 43113,
-    "name": "Avalanche Fuji",
+    "name": "Avalanche Fuji Testnet",
     "tokenSymbol": "AVAX",
     "rpcUrl": "https://api.avax-test.network/ext/bc/C/rpc",
     "blockExplorerUrl": "https://testnet.snowtrace.io",
     "iconUrl": "https://assets.coingecko.com/coins/images/12559/small/Avalanche_Circle_RedWhite_Trans.png",
     "isTestnet": true,
+    "isDefault": false
+  },
+  {
+    "chainId": 10,
+    "name": "OP Mainnet",
+    "tokenSymbol": "ETH",
+    "rpcUrl": "https://op-pokt.nodies.app",
+    "iconUrl": "https://icons.llamao.fi/icons/chains/rsz_optimism.jpg",
+    "isTestnet": false,
+    "isDefault": false
+  },
+  {
+    "chainId": 56,
+    "name": "BNB Smart Chain Mainnet",
+    "tokenSymbol": "BNB",
+    "rpcUrl": "https://bsc-pokt.nodies.app",
+    "iconUrl": "https://icons.llamao.fi/icons/chains/rsz_binance.jpg",
+    "isTestnet": false,
+    "isDefault": false
+  },
+  {
+    "chainId": 130,
+    "name": "Unichain",
+    "tokenSymbol": "ETH",
+    "rpcUrl": "https://unichain-rpc.publicnode.com",
+    "iconUrl": "https://icons.llamao.fi/icons/chains/rsz_unichain.jpg",
+    "isTestnet": false,
+    "isDefault": false
+  },
+  {
+    "chainId": 137,
+    "name": "Polygon Mainnet",
+    "tokenSymbol": "POL",
+    "rpcUrl": "https://1rpc.io/matic",
+    "iconUrl": "https://icons.llamao.fi/icons/chains/rsz_polygon.jpg",
+    "isTestnet": false,
+    "isDefault": false
+  },
+  {
+    "chainId": 324,
+    "name": "zkSync Mainnet",
+    "tokenSymbol": "ETH",
+    "rpcUrl": "https://rpc.ankr.com/zksync_era",
+    "iconUrl": "https://icons.llamao.fi/icons/chains/rsz_zksync%20era.jpg",
+    "isTestnet": false,
+    "isDefault": false
+  },
+  {
+    "chainId": 480,
+    "name": "World Chain",
+    "tokenSymbol": "ETH",
+    "rpcUrl": "https://worldchain.drpc.org",
+    "iconUrl": "https://chainlist.org/unknown-logo.png",
+    "isTestnet": false,
+    "isDefault": false
+  },
+  {
+    "chainId": 42220,
+    "name": "Celo Mainnet",
+    "tokenSymbol": "CELO",
+    "rpcUrl": "https://rpc.ankr.com/celo",
+    "iconUrl": "https://icons.llamao.fi/icons/chains/rsz_celo.jpg",
+    "isTestnet": false,
+    "isDefault": false
+  },
+  {
+    "chainId": 80001,
+    "name": "Mumbai",
+    "tokenSymbol": "MATIC",
+    "rpcUrl": "https://polygon-mumbai-pokt.nodies.app",
+    "iconUrl": "https://chainlist.org/unknown-logo.png",
+    "isTestnet": true,
+    "isDefault": false
+  },
+  {
+    "chainId": 81457,
+    "name": "Blast",
+    "tokenSymbol": "ETH",
+    "rpcUrl": "https://blast-rpc.publicnode.com",
+    "iconUrl": "https://icons.llamao.fi/icons/chains/rsz_blast.jpg",
+    "isTestnet": false,
+    "isDefault": false
+  },
+  {
+    "chainId": 7777777,
+    "name": "Zora",
+    "tokenSymbol": "ETH",
+    "rpcUrl": "https://rpc.zora.energy",
+    "iconUrl": "https://icons.llamao.fi/icons/chains/rsz_zora.jpg",
+    "isTestnet": false,
     "isDefault": false
   }
 ]
