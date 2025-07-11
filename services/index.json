@@ -1,41 +1,59 @@
 {
-  "timestamp": "2025-04-22T00:00:00Z",
+  "timestamp": "2025-07-11T01:55:13.168Z",
   "services": [
     {
-      "name": "JOC Dashboard",
+      "name": "G.U. Wallet",
       "description": {
-        "en": "You can check your JOC token balance and view the NFTs you own.",
-        "ja": "JOCトークンの残高を確認し、所有するNFTを表示できます。"
+        "en": "User-friendly and secure Ethereum-compatible Web3 wallet. Its card-style interface integrates tokens and networks to prevent accidental transfers.",
+        "ja": "簡単操作で安全に暗号資産を管理できるEthereum互換のweb3ウォレットです。トークンとネットワークを一体管理したカード型デザインの誤送信を防止。"
       },
-      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/services/assets/joc-dashboard-icon.svg",
-      "url": "https://app.japanopenchain.org/"
+      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/services/assets/gu-wallet-icon.svg",
+      "url": "https://wallet.gu.net/"
     },
     {
-      "name": "G.U. Developer Console",
+      "name": "G.U. Coin Studio",
       "description": {
-        "en": "You can obtain knowledge and endpoints that are useful for chain block development.",
-        "ja": "ブロックチェーン開発に役立つ知識やEndpointを取得できます。"
+        "en": "Stablecoin issuance and management system designed for financial institutions. You can issue and manage the circulation of stablecoins while integrating with existing core banking and accounting systems.",
+        "ja": "金融機関向けのステーブルコイン発行・管理システムです。G.U. Coin Studioを通じて、ステーブルコインの発行・流通管理、既存の勘定系及び会計システムとの連携が行うことができます。"
       },
-      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/services/assets/developer-console-icon.svg",
-      "url": "https://app.dev-console.gu.net/"
+      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/services/assets/coin-studio-icon.svg",
+      "url": "https://app.test.coinstudio.gu.net"
+    },
+    {
+      "name": "G.U. Token Studio",
+      "description": {
+        "en": "No-code tool that allows anyone to easily create an NFT shop. It supports NFT minting, sales, and customer management features.",
+        "ja": "誰でも簡単にNFTショップを作成できるノーコードツールです。NFTの発行・販売・顧客管理機能などが行えます"
+      },
+      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/services/assets/token-studio-icon.svg",
+      "url": "https://app.tokenstudio.gu.net/"
+    },
+    {
+      "name": "G.U. Blockchain Cloud",
+      "description": {
+        "en": "Cloud service that enables anyone to easily and affordably build and operate an Ethereum-compatible blockchain, equipped with enterprise-grade features and security.",
+        "ja": "Enterprise領域で利用できる機能やセキュリティを備えた「誰でも簡単・低コスト」でEthereum互換のブロックチェーンを構築・運用できるクラウドサービスです。"
+      },
+      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/services/assets/bc-cloud-icon.svg",
+      "url": "https://app.bccloud.net/"
     },
     {
       "name": "Lunascape",
       "description": {
-        "en": "A secure, fast and feature-rich browser with a standard Web3 wallet.",
-        "ja": "標準の Web3 ウォレットを備えた、安全で高速な多機能ブラウザ。"
+        "en": "Secure, fast, and multifunctional Japanese browser developed over 20 years. It comes with a built-in Web3 wallet, enabling seamless access to dApps.",
+        "ja": "日本で20年にわたり開発されている国産の安全・高速・多機能ブラウザです。web3ウォレットを標準搭載し、dAppsへのシームレスなアクセス・利用が可能です。"
       },
       "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/services/assets/lunascape-icon.svg",
       "url": "https://www.lunascape.org/browser/mobile"
     },
     {
-      "name": "G.U. Wallet",
+      "name": "JOC Dashboard",
       "description": {
-        "en": "A Web3 wallet with secure and easy-to-use features for everyone.",
-        "ja": "誰にとっても安全で使いやすい機能を備えたWeb3ウォレット。"
+        "en": "Project to build an open and transparently governed blockchain infrastructure that allows anyone around the world to use blockchain technology safely, securely, and practically.",
+        "ja": "世界中の誰もがブロックチェーン技術を安心・安全かつ実用的に利用できるよう、オープンで運営が明確なブロックチェーン・インフラをつくるプロジェクトです。"
       },
-      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/services/assets/gu-wallet-icon.svg",
-      "url": "https://wallet.gu.net/"
+      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/services/assets/joc-dashboard-icon.svg",
+      "url": "https://app.japanopenchain.org/"
     }
   ]
 }
