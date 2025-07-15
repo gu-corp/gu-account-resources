@@ -5,7 +5,7 @@
       "chainId": 1,
       "chainName": "Ethereum",
       "rpcUrls": ["https://api.gu.net/v1/json-rpc/evm/1"],
-      "iconUrls": ["https://raw.githubusercontent.com/QuangDinh21/gu-account-resources/main/data/assets/eth.svg"],
+      "iconUrls": ["https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/data/assets/eth.svg"],
       "nativeCurrency": {
         "name": "Ether",
         "symbol": "ETH",
@@ -19,7 +19,7 @@
       "chainId": 11155111,
       "chainName": "Sepolia",
       "rpcUrls": ["https://api.gu.net/v1/json-rpc/evm/11155111"],
-      "iconUrls": ["https://raw.githubusercontent.com/QuangDinh21/gu-account-resources/main/data/assets/eth.svg"],
+      "iconUrls": ["https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/data/assets/eth.svg"],
       "nativeCurrency": {
         "name": "Sepolia Ether",
         "symbol": "ETH",
@@ -33,7 +33,7 @@
       "chainId": 81,
       "chainName": "Japan Open Chain Mainnet",
       "rpcUrls": ["https://api.gu.net/v1/json-rpc/evm/81"],
-      "iconUrls": ["https://raw.githubusercontent.com/QuangDinh21/gu-account-resources/main/data/assets/joc.svg"],
+      "iconUrls": ["https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/data/assets/joc.svg"],
       "nativeCurrency": {
         "name": "Japan Open Chain Token",
         "symbol": "JOC",
@@ -47,7 +47,7 @@
       "chainId": 10081,
       "chainName": "Japan Open Chain Testnet",
       "rpcUrls": ["https://api.gu.net/v1/json-rpc/evm/10081"],
-      "iconUrls": ["https://raw.githubusercontent.com/QuangDinh21/gu-account-resources/main/data/assets/joct.svg"],
+      "iconUrls": ["https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/data/assets/joct.svg"],
       "nativeCurrency": {
         "name": "Japan Open Chain Testnet Token",
         "symbol": "JOCT",
@@ -62,7 +62,7 @@
       "chainId": 8453,
       "chainName": "Base",
       "rpcUrls": ["https://api.gu.net/v1/json-rpc/evm/8453"],
-      "iconUrls": ["https://raw.githubusercontent.com/QuangDinh21/gu-account-resources/main/data/assets/base.svg"],
+      "iconUrls": ["https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/data/assets/base.svg"],
       "nativeCurrency": {
         "name": "Ether",
         "symbol": "ETH",
@@ -75,7 +75,7 @@
       "chainId": 84532,
       "chainName": "Base Sepolia",
       "rpcUrls": ["https://api.gu.net/v1/json-rpc/evm/84532"],
-      "iconUrls": ["https://raw.githubusercontent.com/QuangDinh21/gu-account-resources/main/data/assets/base.svg"],
+      "iconUrls": ["https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/data/assets/base.svg"],
       "nativeCurrency": {
         "name": "Sepolia Ether",
         "symbol": "ETH",
@@ -89,7 +89,7 @@
       "chainId": 42161,
       "chainName": "Arbitrum One",
       "rpcUrls": ["https://api.gu.net/v1/json-rpc/evm/42161"],
-      "iconUrls": ["https://raw.githubusercontent.com/QuangDinh21/gu-account-resources/main/data/assets/arbitrum.svg"],
+      "iconUrls": ["https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/data/assets/arbitrum.svg"],
       "nativeCurrency": {
         "name": "Ether",
         "symbol": "ETH",
@@ -102,7 +102,7 @@
       "chainId": 421614,
       "chainName": "Arbitrum Sepolia",
       "rpcUrls": ["https://api.gu.net/v1/json-rpc/evm/421614"],
-      "iconUrls": ["https://raw.githubusercontent.com/QuangDinh21/gu-account-resources/main/data/assets/arbitrum.svg"],
+      "iconUrls": ["https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/data/assets/arbitrum.svg"],
       "nativeCurrency": {
         "name": "Sepolia Ether",
         "symbol": "ETH",
@@ -116,7 +116,7 @@
       "chainId": 43114,
       "chainName": "Avalanche",
       "rpcUrls": ["https://api.gu.net/v1/json-rpc/evm/43114"],
-      "iconUrls": ["https://raw.githubusercontent.com/QuangDinh21/gu-account-resources/main/data/assets/avax.svg"],
+      "iconUrls": ["https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/data/assets/avax.svg"],
       "nativeCurrency": {
         "name": "Avalanche",
         "symbol": "AVAX",
@@ -129,7 +129,7 @@
       "chainId": 43113,
       "chainName": "Avalanche Fuji",
       "rpcUrls": ["https://api.gu.net/v1/json-rpc/evm/43113"],
-      "iconUrls": ["https://raw.githubusercontent.com/QuangDinh21/gu-account-resources/main/data/assets/avax.svg"],
+      "iconUrls": ["https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/data/assets/avax.svg"],
       "nativeCurrency": {
         "name": "Avalanche",
         "symbol": "AVAX",
