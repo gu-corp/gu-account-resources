@@ -31,7 +31,7 @@
     },
     {
       "chainId": 81,
-      "chainName": "Japan Open Chain Mainnet",
+      "chainName": "Japan Open Chain",
       "rpcUrls": ["https://api.gu.net/v1/json-rpc/evm/81"],
       "iconUrls": ["https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/networks/assets/joc.svg"],
       "nativeCurrency": {
