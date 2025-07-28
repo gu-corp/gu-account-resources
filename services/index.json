@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-11T01:55:13.168Z",
+  "timestamp": "2025-07-28T03:18:19.848Z",
   "services": [
     {
       "name": "G.U. Wallet",
@@ -9,15 +9,6 @@
       },
       "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/services/assets/gu-wallet-icon.svg",
       "url": "https://wallet.gu.net/"
-    },
-    {
-      "name": "G.U. Coin Studio",
-      "description": {
-        "en": "Stablecoin issuance and management system designed for financial institutions. You can issue and manage the circulation of stablecoins while integrating with existing core banking and accounting systems.",
-        "ja": "金融機関向けのステーブルコイン発行・管理システムです。G.U. Coin Studioを通じて、ステーブルコインの発行・流通管理、既存の勘定系及び会計システムとの連携が行うことができます。"
-      },
-      "icon": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/services/assets/coin-studio-icon.svg",
-      "url": "https://app.test.coinstudio.gu.net"
     },
     {
       "name": "G.U. Token Studio",
