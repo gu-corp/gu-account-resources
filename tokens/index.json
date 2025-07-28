@@ -1,12 +1,103 @@
 {
-  "timestamp": "2025-07-17T08:28:26.171Z",
+  "timestamp": "2025-07-28T06:16:10.581Z",
   "tokens": [
+    {
+      "chainId": 1,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/eth.svg"
+    },
     {
       "chainId": 81,
       "name": "JOC",
       "symbol": "JOC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/joc.svg"
+    },
+    {
+      "chainId": 8453,
+      "name": "Base",
+      "symbol": "BASE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/base.svg"
+    },
+    {
+      "chainId": 42161,
+      "name": "Arbitrum One",
+      "symbol": "ARB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/arbitrum.svg"
+    },
+    {
+      "chainId": 43114,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/avax.svg"
+    },
+    {
+      "chainId": 7777777,
+      "name": "Zora Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/zora.svg"
+    },
+    {
+      "chainId": 81457,
+      "name": "Blast Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/blast.svg"
+    },
+    {
+      "chainId": 42220,
+      "name": "CELO",
+      "symbol": "CELO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/celo.svg"
+    },
+    {
+      "chainId": 480,
+      "name": "World Chain Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/eth.svg"
+    },
+    {
+      "chainId": 324,
+      "name": "zkSync Era Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/zksync.svg"
+    },
+    {
+      "chainId": 137,
+      "name": "Polygon",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/polygon.svg"
+    },
+    {
+      "chainId": 130,
+      "name": "Unichain Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/unichain.svg"
+    },
+    {
+      "chainId": 56,
+      "name": "BNB Smart Chain",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/bnb.svg"
+    },
+    {
+      "chainId": 10,
+      "name": "Optimism Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/optimism.svg"
     },
     {
       "chainId": 10081,
