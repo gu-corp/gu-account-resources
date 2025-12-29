@@ -3,14 +3,14 @@
   "tokens": [
     {
       "chainId": 1,
-      "name": "Ethereum",
+      "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/eth.svg"
     },
     {
       "chainId": 81,
-      "name": "JOC",
+      "name": "JOC Coin",
       "symbol": "JOC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/joc.svg"
@@ -52,7 +52,7 @@
     },
     {
       "chainId": 42220,
-      "name": "CELO",
+      "name": "Celo",
       "symbol": "CELO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/celo.svg"
@@ -101,7 +101,7 @@
     },
     {
       "chainId": 10081,
-      "name": "JOCT",
+      "name": "JOC Testnet Coin",
       "symbol": "JOCT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/joct.svg"
@@ -109,7 +109,7 @@
     {
       "chainId": 1,
       "address": "0x4ba87863374eD6D5e2d3A2aa6A2B036C1603180C",
-      "name": "USDTX",
+      "name": "USDTX Stablecoin",
       "symbol": "USDTX",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/usdtx.svg"
@@ -117,7 +117,7 @@
     {
       "chainId": 1,
       "address": "0x5E80CAf3D631Ada4F71B915717766257fC8c684a",
-      "name": "USDCX",
+      "name": "USDCX Stablecoin",
       "symbol": "USDCX",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/usdcx.svg"
@@ -125,7 +125,7 @@
     {
       "chainId": 1,
       "address": "0xbb1E1399EEE1f577F1B4359224155f5Db39CA084",
-      "name": "JOCX",
+      "name": "JOCX Token",
       "symbol": "JOCX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/joc.svg"
@@ -133,7 +133,7 @@
     {
       "chainId": 81,
       "address": "0xe18e898E5843E8a8EA7A1C4AF08730DcA6689aA9",
-      "name": "USDTX",
+      "name": "USDTX Stablecoin",
       "symbol": "USDTX",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/usdtx.svg"
@@ -141,7 +141,7 @@
     {
       "chainId": 81,
       "address": "0x538F7567f16cbE40d051e9f2928d215343D9A13A",
-      "name": "USDCX",
+      "name": "USDCX Stablecoin",
       "symbol": "USDCX",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/usdcx.svg"
@@ -149,7 +149,7 @@
     {
       "chainId": 8453,
       "address": "0xe18e898E5843E8a8EA7A1C4AF08730DcA6689aA9",
-      "name": "USDTX",
+      "name": "USDTX Stablecoin",
       "symbol": "USDTX",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/usdtx.svg"
@@ -157,7 +157,7 @@
     {
       "chainId": 8453,
       "address": "0x538F7567f16cbE40d051e9f2928d215343D9A13A",
-      "name": "USDCX",
+      "name": "USDCX Stablecoin",
       "symbol": "USDCX",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/usdcx.svg"
@@ -165,7 +165,7 @@
     {
       "chainId": 8453,
       "address": "0xbb1E1399EEE1f577F1B4359224155f5Db39CA084",
-      "name": "JOCX",
+      "name": "JOCX Token",
       "symbol": "JOCX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/joc.svg"
@@ -173,7 +173,7 @@
     {
       "chainId": 42161,
       "address": "0xe18e898E5843E8a8EA7A1C4AF08730DcA6689aA9",
-      "name": "USDTX",
+      "name": "USDTX Stablecoin",
       "symbol": "USDTX",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/usdtx.svg"
@@ -181,7 +181,7 @@
     {
       "chainId": 42161,
       "address": "0x538F7567f16cbE40d051e9f2928d215343D9A13A",
-      "name": "USDCX",
+      "name": "USDCX Stablecoin",
       "symbol": "USDCX",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/usdcx.svg"
@@ -189,7 +189,7 @@
     {
       "chainId": 42161,
       "address": "0xbb1E1399EEE1f577F1B4359224155f5Db39CA084",
-      "name": "JOCX",
+      "name": "JOCX Token",
       "symbol": "JOCX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/joc.svg"
@@ -197,7 +197,7 @@
     {
       "chainId": 43114,
       "address": "0xe18e898E5843E8a8EA7A1C4AF08730DcA6689aA9",
-      "name": "USDTX",
+      "name": "USDTX Stablecoin",
       "symbol": "USDTX",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/usdtx.svg"
@@ -205,7 +205,7 @@
     {
       "chainId": 43114,
       "address": "0x538F7567f16cbE40d051e9f2928d215343D9A13A",
-      "name": "USDCX",
+      "name": "USDCX Stablecoin",
       "symbol": "USDCX",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/usdcx.svg"
@@ -213,7 +213,7 @@
     {
       "chainId": 43114,
       "address": "0xbb1E1399EEE1f577F1B4359224155f5Db39CA084",
-      "name": "JOCX",
+      "name": "JOCX Token",
       "symbol": "JOCX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/gu-corp/gu-account-resources/main/tokens/assets/joc.svg"
